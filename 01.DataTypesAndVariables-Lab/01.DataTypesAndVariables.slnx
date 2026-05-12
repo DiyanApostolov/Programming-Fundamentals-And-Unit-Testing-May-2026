@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="01.HelloC#/01.HelloC#.csproj" />
+  <Project Path="02.Print5By5/02.Print5By5.csproj" />
+  <Project Path="03.NameAndExpression/03.NameAndExpression.csproj" />
+  <Project Path="04.Calculations/04.Calculations.csproj" />
+  <Project Path="05.Greeting/05.Greeting.csproj" />
+  <Project Path="06.CustomerInfo/06.CustomerInfo.csproj" />
+  <Project Path="07.PersonInfo/07.PersonInfo.csproj" />
+  <Project Path="08.TownInfo/08.TownInfo.csproj" />
+  <Project Path="09.DaysInMinutes/09.DaysInMinutes.csproj" />
+  <Project Path="10.CalculateSpeed/10.CalculateSpeed.csproj" />
+</Solution>

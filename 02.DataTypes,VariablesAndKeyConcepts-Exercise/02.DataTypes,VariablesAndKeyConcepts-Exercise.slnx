@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="01.ReversedNumbers/01.ReversedNumbers.csproj" />
+  <Project Path="02.CenturiesToMin/02.CenturiesToMin.csproj" Id="8b09a55a-4d6e-4e05-b572-6b8d22f064ca" />
+  <Project Path="03.Redecorating/03.Redecorating.csproj" Id="dfae09f4-0f32-4ab2-a1e0-edcca1d34ec8" />
+  <Project Path="04.FoodDelivery/04.FoodDelivery.csproj" Id="c193b489-f0bd-468d-90a2-4a12d2688d9c" />
+  <Project Path="05.BasketballEquip/05.BasketballEquip.csproj" Id="3aa264d3-f652-4b51-884f-dadf50cdd322" />
+  <Project Path="06.Aquarium/06.Aquarium.csproj" Id="9fb600ca-5eb7-4fee-92d6-3e47dd3cf54a" />
+</Solution>
